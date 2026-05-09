@@ -4,6 +4,10 @@
 
 CRM Sales Pipeline & Lead Follow-Up Automation System
 
+## Project Link
+
+https://github.com/Akannione/crm-sales-pipeline-automation-system
+
 ## Short Description
 
 Python + SQL case study that cleans messy CRM lead data, creates lead scoring and follow-up priority logic, and generates a sales pipeline dashboard for weekly business review.
