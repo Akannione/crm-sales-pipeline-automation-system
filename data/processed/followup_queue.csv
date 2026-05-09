@@ -1,0 +1,81 @@
+lead_id,company_name,contact_name,sales_rep,stage,lead_source,deal_value,expected_value,lead_score,priority,followup_status,next_followup_date,recommended_action
+CRM-20458,Crescent Partners,Alex Walker,Avery Brooks,Negotiation,Referral,32676.4,25814.36,100,High,Overdue,2026-05-04,Follow up today
+CRM-20331,Anchor Studio,Taylor Brown,Riley Carter,Negotiation,Website,28808.26,22470.44,100,High,Overdue,2026-03-27,Follow up today
+CRM-20602,BrightPath Systems,Taylor Johnson,Tobi Oniyide,Negotiation,LinkedIn,16782.78,13761.88,100,High,Overdue,2026-03-29,Follow up today
+CRM-20613,Northstar Clinic,Nia Patel,Avery Brooks,Proposal,Webinar,18720.96,11981.41,100,High,Overdue,2026-02-07,Follow up today
+CRM-20367,Crescent Collective,Chris Brown,Riley Carter,Demo Scheduled,Webinar,24283.2,11898.77,87,High,Overdue,2026-04-21,Follow up today
+CRM-20364,BrightPath Labs,Taylor Johnson,Avery Brooks,Negotiation,Referral,15073.84,11305.38,100,High,Overdue,2026-03-08,Follow up today
+CRM-20170,Anchor Collective,Chris Brown,Tobi Oniyide,Proposal,Referral,16520.25,10242.56,100,High,Overdue,2026-05-08,Follow up today
+CRM-20252,Evergreen Partners,Andre Nguyen,Riley Carter,Negotiation,Partner,12284.45,10073.25,100,High,Overdue,2026-04-22,Follow up today
+CRM-20077,Northstar Labs,Maya Miller,Avery Brooks,Negotiation,Event,12183.81,9747.05,100,High,Overdue,2026-01-24,Follow up today
+CRM-20403,BrightPath Systems,Nia Thomas,Jordan Lee,Demo Scheduled,Website,18006.05,9183.09,90,High,Overdue,2026-03-18,Follow up today
+CRM-20338,Blue Ridge Group,Andre Thomas,Jordan Lee,Proposal,LinkedIn,13802.86,8971.86,100,High,Overdue,2026-02-12,Follow up today
+CRM-20311,Summit Studio,Andre Brown,Morgan Smith,Proposal,Webinar,13526.2,8656.77,97,High,Overdue,2026-04-10,Follow up today
+CRM-20496,Metro Systems,Jasmine Thomas,Tobi Oniyide,Negotiation,Website,10785.78,8520.77,100,High,Overdue,2026-03-15,Follow up today
+CRM-20539,Summit Group,Andre Patel,Avery Brooks,Negotiation,Event,10730.67,8477.23,91,High,Overdue,2026-01-30,Follow up today
+CRM-20440,Blue Ridge Collective,Chris Davis,Riley Carter,Negotiation,Partner,10056.13,8044.9,100,High,Overdue,2026-03-21,Follow up today
+CRM-20735,Anchor Collective,Andre Walker,Jordan Lee,Qualified,Referral,22819.24,7758.54,77,High,Overdue,2026-03-15,Follow up today
+CRM-20456,Summit Services,Jasmine Miller,Jordan Lee,Demo Scheduled,Referral,14911.22,7455.61,89,High,Overdue,2026-04-30,Follow up today
+CRM-20580,Summit Collective,Andre Garcia,Riley Carter,Proposal,Website,11029.22,7058.7,90,High,Overdue,2026-02-26,Follow up today
+CRM-20514,Blue Ridge Clinic,Priya Wilson,Riley Carter,Negotiation,Partner,9374.47,7030.85,100,High,Overdue,2026-04-28,Follow up today
+CRM-20667,Northstar Clinic,Jasmine Wilson,Morgan Smith,Demo Scheduled,Paid Search,13492.84,7016.28,82,High,Overdue,2026-02-19,Follow up today
+CRM-20494,Crescent Collective,Andre Thomas,Avery Brooks,Demo Scheduled,Referral,13742.97,6734.06,89,High,Overdue,2026-05-03,Follow up today
+CRM-20210,Anchor Clinic,Priya Brown,Jordan Lee,Demo Scheduled,Website,13388.28,6560.26,100,High,Overdue,2026-04-28,Follow up today
+CRM-20412,Crescent Collective,Andre Wilson,Riley Carter,Proposal,Paid Search,9891.9,6528.65,91,High,Overdue,2026-04-23,Follow up today
+CRM-20310,Crescent Systems,Jasmine Garcia,Tobi Oniyide,Demo Scheduled,Cold Email,12381.65,6438.46,78,High,Overdue,2026-02-01,Follow up today
+CRM-20573,Evergreen Studio,Jasmine Garcia,Jordan Lee,Proposal,Referral,9618.25,6348.05,100,High,Overdue,2026-04-29,Follow up today
+CRM-20231,Crescent Services,Taylor Davis,Tobi Oniyide,Demo Scheduled,Webinar,12838.64,6290.93,81,High,Overdue,2026-03-08,Follow up today
+CRM-20675,Northstar Services,Daniel Wilson,Avery Brooks,Demo Scheduled,Paid Search,13105.9,6159.77,76,High,Overdue,2026-03-12,Follow up today
+CRM-20693,Crescent Labs,Sam Walker,Avery Brooks,Negotiation,LinkedIn,7536.99,6029.59,100,High,Overdue,2026-01-30,Follow up today
+CRM-20577,BrightPath Clinic,Nia Miller,Tobi Oniyide,Negotiation,Website,7587.32,5993.98,100,High,Overdue,2026-03-11,Follow up today
+CRM-20665,Blue Ridge Systems,Jasmine Brown,Morgan Smith,Negotiation,Paid Search,7843.76,5882.82,100,High,Overdue,2026-04-28,Follow up today
+CRM-20158,Anchor Partners,Alex Wilson,Riley Carter,Negotiation,Webinar,7348.21,5805.09,100,High,Overdue,2026-03-08,Follow up today
+CRM-20564,Crescent Labs,Jasmine Garcia,Morgan Smith,Proposal,LinkedIn,9344.19,5793.4,100,High,Overdue,2026-04-29,Follow up today
+CRM-20402,Anchor Services,Jasmine Johnson,Jordan Lee,Demo Scheduled,Website,11035.65,5738.54,80,High,Overdue,2026-04-23,Follow up today
+CRM-20193,BrightPath Studio,Alex Thomas,Morgan Smith,Negotiation,LinkedIn,6825.14,5391.86,100,High,Overdue,2026-04-30,Follow up today
+CRM-20635,Summit Partners,Jasmine Walker,Riley Carter,Proposal,Partner,8581.29,5148.77,98,High,Overdue,2026-03-18,Follow up today
+CRM-20329,Blue Ridge Partners,Maya Wilson,Riley Carter,Demo Scheduled,Unknown,11356.27,5110.32,82,High,Overdue,2026-04-22,Follow up today
+CRM-20427,Summit Systems,Sam Johnson,Riley Carter,Demo Scheduled,Webinar,10616.93,5096.13,83,High,Overdue,2026-05-01,Follow up today
+CRM-20025,Summit Clinic,Jasmine Walker,Morgan Smith,Demo Scheduled,Website,10669.32,4907.89,82,High,Overdue,2026-04-28,Follow up today
+CRM-20500,Anchor Systems,Jasmine Johnson,Riley Carter,Demo Scheduled,Paid Search,10012.6,4806.05,87,High,Overdue,2026-04-24,Follow up today
+CRM-20167,Evergreen Labs,Maya Wilson,Avery Brooks,Negotiation,Referral,6055.45,4602.14,100,High,Overdue,2026-03-18,Follow up today
+CRM-20716,Blue Ridge Studio,Maya Walker,Jordan Lee,Proposal,Webinar,6761.68,4597.94,85,High,Overdue,2026-04-16,Follow up today
+CRM-20116,Evergreen Collective,Priya Wilson,Morgan Smith,Proposal,Event,6832.24,4577.6,82,High,Overdue,2026-02-28,Follow up today
+CRM-20526,BrightPath Studio,Chris Patel,Tobi Oniyide,Negotiation,Event,6123.92,4531.7,95,High,Overdue,2026-03-23,Follow up today
+CRM-20688,Crescent Group,Taylor Garcia,Tobi Oniyide,Negotiation,LinkedIn,5516.38,4468.27,100,High,Overdue,2026-05-07,Follow up today
+CRM-20399,Anchor Group,Andre Thomas,Morgan Smith,Proposal,Partner,7147.99,4431.75,100,High,Overdue,2026-05-07,Follow up today
+CRM-20527,BrightPath Services,Maya Brown,Tobi Oniyide,Demo Scheduled,LinkedIn,8853.77,4426.89,94,High,Overdue,2026-05-02,Follow up today
+CRM-20732,Anchor Labs,Daniel Johnson,Avery Brooks,Demo Scheduled,Event,9146.56,4390.35,90,High,Overdue,2026-05-02,Follow up today
+CRM-20441,Northstar Collective,Chris Nguyen,Tobi Oniyide,Negotiation,Website,5620.43,4327.73,100,High,Overdue,2026-04-27,Follow up today
+CRM-20454,Crescent Clinic,Maya Wilson,Morgan Smith,Negotiation,Website,5571.02,4233.98,89,High,Overdue,2026-02-24,Follow up today
+CRM-20720,Anchor Group,Priya Walker,Riley Carter,Negotiation,Cold Email,5491.33,4173.41,99,High,Overdue,2026-03-04,Follow up today
+CRM-20556,Anchor Labs,Maya Brown,Riley Carter,Negotiation,LinkedIn,5530.17,4147.63,100,High,Overdue,2026-02-13,Follow up today
+CRM-20477,Evergreen Partners,Jasmine Thomas,Jordan Lee,Negotiation,Event,5190.2,4100.26,93,High,Overdue,2026-04-02,Follow up today
+CRM-20326,Anchor Collective,Nia Wilson,Tobi Oniyide,Proposal,Referral,6117.84,4098.95,81,High,Overdue,2026-03-09,Follow up today
+CRM-20064,Evergreen Studio,Nia Brown,Avery Brooks,Proposal,Webinar,6262.97,4070.93,100,High,Overdue,2026-05-06,Follow up today
+CRM-20076,Summit Partners,Taylor Garcia,Avery Brooks,Demo Scheduled,Webinar,7960.85,4060.03,98,High,Overdue,2026-05-04,Follow up today
+CRM-20395,Summit Labs,Taylor Davis,Riley Carter,Demo Scheduled,Cold Email,8761.39,4030.24,76,High,Overdue,2026-02-11,Follow up today
+CRM-20073,BrightPath Partners,Chris Patel,Avery Brooks,Qualified,Unknown,10833.91,3900.21,75,High,Overdue,2026-05-07,Follow up today
+CRM-20188,Metro Group,Andre Nguyen,Jordan Lee,Proposal,Partner,6218.7,3855.59,76,High,Overdue,2026-02-13,Follow up today
+CRM-20196,Northstar Services,Maya Wilson,Tobi Oniyide,Demo Scheduled,Event,7840.11,3841.65,82,High,Overdue,2026-04-26,Follow up today
+CRM-20649,BrightPath Clinic,Daniel Walker,Morgan Smith,Demo Scheduled,Website,7645.61,3822.8,76,High,Overdue,2026-05-05,Follow up today
+CRM-20579,Blue Ridge Clinic,Daniel Johnson,Avery Brooks,Proposal,Cold Email,5676.88,3803.51,86,High,Overdue,2026-03-30,Follow up today
+CRM-20745,BrightPath Partners,Daniel Davis,Jordan Lee,Proposal,Website,6241.33,3744.8,86,High,Overdue,2026-04-04,Follow up today
+CRM-20742,Crescent Clinic,Taylor Wilson,Avery Brooks,Demo Scheduled,Webinar,7086.03,3684.74,87,High,Overdue,2026-03-31,Follow up today
+CRM-20588,Anchor Clinic,Maya Miller,Morgan Smith,Negotiation,Partner,4569.35,3564.09,100,High,Overdue,2026-04-25,Follow up today
+CRM-20542,Summit Collective,Sam Garcia,Tobi Oniyide,Proposal,Cold Email,5529.42,3483.53,98,High,Overdue,2026-05-01,Follow up today
+CRM-20039,Metro Collective,Maya Garcia,Riley Carter,Demo Scheduled,Cold Email,7481.43,3366.64,86,High,Overdue,2026-05-03,Follow up today
+CRM-20108,Summit Systems,Daniel Brown,Tobi Oniyide,Proposal,Paid Search,5338.13,3363.02,90,High,Overdue,2026-02-19,Follow up today
+CRM-20240,Summit Labs,Taylor Miller,Tobi Oniyide,Proposal,Cold Email,5163.23,3356.1,86,High,Overdue,2026-05-08,Follow up today
+CRM-20098,Summit Services,Alex Miller,Avery Brooks,Proposal,Partner,5226.26,3344.81,86,High,Overdue,2026-03-24,Follow up today
+CRM-20517,Crescent Clinic,Alex Davis,Morgan Smith,Demo Scheduled,Referral,6943.82,3333.03,77,High,Overdue,2026-02-24,Follow up today
+CRM-20370,Anchor Systems,Jasmine Davis,Avery Brooks,Negotiation,Cold Email,4263.6,3325.61,100,High,Overdue,2026-04-25,Follow up today
+CRM-20703,BrightPath Labs,Chris Nguyen,Riley Carter,Proposal,Referral,4871.01,3263.58,100,High,Overdue,2026-05-05,Follow up today
+CRM-20022,Blue Ridge Systems,Sam Nguyen,Riley Carter,Demo Scheduled,LinkedIn,6481.49,3240.74,86,High,Overdue,2026-04-22,Follow up today
+CRM-20135,Evergreen Group,Sam Miller,Tobi Oniyide,Demo Scheduled,Referral,6434.62,3088.62,87,High,Overdue,2026-04-21,Follow up today
+CRM-20408,Crescent Clinic,Maya Walker,Jordan Lee,Negotiation,Cold Email,3762.66,2934.87,97,High,Overdue,2026-03-07,Follow up today
+CRM-20628,BrightPath Services,Chris Patel,Avery Brooks,Proposal,LinkedIn,4815.2,2889.12,84,High,Overdue,2026-04-23,Follow up today
+CRM-20551,BrightPath Clinic,Andre Thomas,Jordan Lee,Proposal,LinkedIn,4398.93,2683.35,82,High,Overdue,2026-02-16,Follow up today
+CRM-20707,Anchor Labs,Priya Davis,Jordan Lee,Proposal,Website,4039.89,2666.33,94,High,Overdue,2026-05-04,Follow up today
+CRM-20669,Anchor Studio,Alex Thomas,Riley Carter,Demo Scheduled,LinkedIn,5562.84,2614.53,76,High,Overdue,2026-03-23,Follow up today
+CRM-20356,Blue Ridge Collective,Alex Patel,Jordan Lee,Negotiation,Website,3239.79,2591.83,91,High,Overdue,2026-03-06,Follow up today

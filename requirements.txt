@@ -1,0 +1,3 @@
+# Main case-study pipeline uses the Python standard library.
+# Pillow is only needed to regenerate the PNG dashboard preview.
+Pillow>=10.0.0
