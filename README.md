@@ -8,14 +8,19 @@ I built a repeatable CRM reporting workflow that takes messy lead data, cleans i
 
 This project shows sales operations, lead management, CRM cleanup, follow-up discipline, dashboard reporting, and business process improvement.
 
+## Live Preview
+
+- [Portfolio showcase](https://akannione.github.io/crm-sales-pipeline-automation-system/reports/portfolio_showcase.html)
+- [CRM sales pipeline dashboard](https://akannione.github.io/crm-sales-pipeline-automation-system/reports/crm_sales_pipeline_dashboard.html)
+
 ## Visual Proof
 
 ![CRM sales pipeline dashboard preview](assets/screenshots/crm_dashboard_preview.png)
 
-Open the generated outputs:
+Open the generated outputs in GitHub:
 
-- [Portfolio showcase](reports/portfolio_showcase.html)
-- [CRM sales pipeline dashboard](reports/crm_sales_pipeline_dashboard.html)
+- [Portfolio showcase source](reports/portfolio_showcase.html)
+- [CRM sales pipeline dashboard source](reports/crm_sales_pipeline_dashboard.html)
 - [Executive summary](reports/executive_summary.md)
 
 ## Key Results
