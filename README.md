@@ -2,11 +2,31 @@
 
 Portfolio project for Business Administration + CIST positioning.
 
-## Project Summary
+## 30-Second Summary
 
 I built a repeatable CRM reporting workflow that takes messy lead data, cleans it with Python, scores the leads, analyzes the sales pipeline with SQL, and creates a follow-up dashboard for weekly sales operations decisions.
 
-This project is designed to show a different portfolio angle from database and cloud projects: sales operations, lead management, CRM cleanup, follow-up discipline, dashboard reporting, and business process improvement.
+This project shows sales operations, lead management, CRM cleanup, follow-up discipline, dashboard reporting, and business process improvement.
+
+## Visual Proof
+
+![CRM sales pipeline dashboard preview](assets/screenshots/crm_dashboard_preview.png)
+
+Open the generated outputs:
+
+- [Portfolio showcase](reports/portfolio_showcase.html)
+- [CRM sales pipeline dashboard](reports/crm_sales_pipeline_dashboard.html)
+- [Executive summary](reports/executive_summary.md)
+
+## Key Results
+
+- 760 CRM leads cleaned
+- $4,462,180 active pipeline value analyzed
+- $1,481,021 expected pipeline value calculated
+- $588,553 won revenue identified
+- 442 overdue follow-ups surfaced
+- 188 high-priority active leads identified
+- Follow-up queue generated with recommended actions
 
 ## Business Scenario
 
@@ -34,7 +54,7 @@ The system creates a clean sales operations workflow:
 6. Loads the cleaned data into SQLite.
 7. Runs SQL analysis for KPI summary, follow-up queue, sales rep performance, source performance, stage conversion, and industry pipeline.
 8. Exports dashboard-ready CSV files.
-9. Generates a static HTML dashboard and executive summary.
+9. Generates a static HTML dashboard, screenshot preview, and executive summary.
 
 ## Skills Demonstrated
 
@@ -125,3 +145,9 @@ This project shows how I combine business administration and CIST thinking. I ca
 - Weekly sales operations reports
 - Business process documentation
 - AI-assisted sales workflow documentation
+
+## Next Improvements
+
+- Add a Power BI version of the dashboard.
+- Add a short video walkthrough.
+- Add a Google Sheets version for lightweight client delivery.
