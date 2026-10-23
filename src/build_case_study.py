@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import csv
+import math
 import random
 import sqlite3
 from datetime import date, datetime, timedelta
@@ -280,13 +281,13 @@ def parse_float(value: str) -> float | None:
         parsed = float((value or "").strip().replace("$", "").replace(",", ""))
     except ValueError:
         return None
-    return parsed if parsed >= 0 else None
+    return parsed if math.isfinite(parsed) and parsed >= 0 else None
 
 
 def parse_int(value: str) -> int:
     try:
         parsed = int(float((value or "").strip()))
-    except ValueError:
+    except (ValueError, OverflowError):
         return 0
     return parsed if parsed >= 0 else 0
 
